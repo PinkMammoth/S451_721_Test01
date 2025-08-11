@@ -1,25 +1,32 @@
 {
     "id": 2,
-    "image": "https://immutable.github.io/sample-project-metadata/tokens/token2.webp",
+    "image": "https://PinkMammoth.github.io/S451_721_Test01/main/tokens/2.png",
     "token_id": "2",
     "background_color": null,
-    "animation_url": null,
-    "youtube_url": null,
-    "name": "Test zkEVM NFT #2",
-    "description": "This NFT is my second Immutable zkEVM NFT",
+    "youtube_url": "ipfs://bafybeiallxoy3ydaytbclnx3rzlbgmceb7lgj2wbicctvqvahzexh6dcq4",
+    "name": "Atlas_Hydra_Test01",
+    "description": "This is a test NFT on Immutable zkEVM",
     "external_url": null,
     "attributes": [
       {
-        "trait_type": "Hat",
-        "value": "Top Hat"
+        "trait_type": "Muzzle",
+        "value": "Muzzle_base"
       },
       {
-        "trait_type": "Coat",
-        "value": "Tails"
+        "trait_type": "Barrel",
+        "value": "Barrel_base"
       },
       {
-        "trait_type": "Neck",
-        "value": "Bow Tie"
-      }
+        "trait_type": "Magazine",
+        "value": "Mag_base"
+      },
+      {
+      "trait_type": "Stock",
+        "value": "Stock_base"
+      },
+    {
+        "trait_type": "Sight",
+        "value": "Sight_base"
+    }
     ]
   }
