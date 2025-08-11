@@ -1,10 +1,11 @@
 {
   "name": "S451 Test Collection",
   "description": "A test collection of S451 weapons on Immutable. This collection is for testing ERC721 deployment and metadata linking.",
-  "image": "https://PinkMammoth.github.io/S451_721_Test01/main/collection.png",
+  "image": "https://PinkMammoth.github.io/S451_721_Test01/root/collection.png",
   "external_link": "https://sol451.com",
   "seller_fee_basis_points": 500,
   "fee_recipient": "0x3b3290ae96ba996e18fd9193e1a0ebc11af64a23"
 
 }
+
 
