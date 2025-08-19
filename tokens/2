@@ -1,12 +1,12 @@
 {
     "id": 2,
-    "image": "https://PinkMammoth.github.io/S451_721_Test01/main/tokens/2.png",
+    "image": "https://PinkMammoth.github.io/S451_721_Test01/tokens/2.png",
     "token_id": "2",
     "background_color": null,
     "youtube_url": "ipfs://bafybeiallxoy3ydaytbclnx3rzlbgmceb7lgj2wbicctvqvahzexh6dcq4",
     "name": "Atlas_Hydra_Test01",
     "description": "This is a test NFT on Immutable zkEVM",
-    "external_url": null,
+    "external_url": "https://sol451.com",
     "attributes": [
       {
         "trait_type": "Muzzle",
