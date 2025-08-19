@@ -1,25 +1,32 @@
 {
     "id": 3,
-    "image": "https://immutable.github.io/sample-project-metadata/tokens/token3.webp",
+    "image": "https://PinkMammoth.github.io/S451_721_Test01/tokens/3.png",
     "token_id": "3",
-    "background_color": null,
-    "animation_url": null,
-    "youtube_url": null,
-    "name": "Test zkEVM NFT",
-    "description": "This NFT is my third Immutable zkEVM NFT",
-    "external_url": null,
+    "background_color": "grey",
+    "youtube_url": "https://PinkMammoth.github.io/S451_721_Test01/tokens/Atlas_Cerberus.mp4",
+    "name": "Atlas_Cerberus_Test01",
+    "description": "This is a test NFT on Immutable zkEVM",
+    "external_url": "https://sol451.com",
     "attributes": [
       {
-        "trait_type": "Hat",
-        "value": "Top Hat"
+        "trait_type": "Muzzle",
+        "value": "Muzzle_base"
       },
       {
-        "trait_type": "Coat",
-        "value": "Tails"
+        "trait_type": "Barrel",
+        "value": "Barrel_base"
       },
       {
-        "trait_type": "Neck",
-        "value": "Bow Tie"
-      }
+        "trait_type": "Magazine",
+        "value": "Mag_base"
+      },
+      {
+      "trait_type": "Stock",
+        "value": "Stock_base"
+      },
+    {
+        "trait_type": "Sight",
+        "value": "Sight_base"
+    }
     ]
   }
